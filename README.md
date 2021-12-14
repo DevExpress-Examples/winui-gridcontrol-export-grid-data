@@ -34,8 +34,8 @@ You can export [GridControl](https://docs.devexpress.com/WinUI/DevExpress.WinUI.
 <!-- default file list -->
 ## Files to Look At
 
-- [GridPage.xaml](./CS/ExportGridControl/ExportGridControl/Views/GridPage.xaml) (VB: [GridPage.xaml](./VB/ExportGridControl/ExportGridControl/Views/GridPage.xaml))
-- [GridPage.xaml.cs](./CS/ExportGridControl/ExportGridControl/Views/GridPage.xaml.cs#L17) (VB: [GridPage.xaml.vb](./CS/ExportGridControl/ExportGridControl/Views/GridPage.xaml.vb#L17))
+- [GridPage.xaml](./CS/ExportGridControl/ExportGridControl/Views/GridPage.xaml)
+- [GridPage.xaml.cs](./CS/ExportGridControl/ExportGridControl/Views/GridPage.xaml.cs#L17)
 <!-- default file list end -->
 
 ## Documentation
